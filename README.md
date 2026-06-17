@@ -536,6 +536,9 @@ Returns:
 * Multi-Agent Workflows
 
 ---
+# 🎯 Output
+![Output](hScreenshot 2026-06-17 235544.png)
+---
 
 # 👨‍💻 Author
 
