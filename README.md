@@ -537,7 +537,7 @@ Returns:
 
 ---
 # 🎯 Output
-![Output](hScreenshot 2026-06-17 235544.png)
+![Output](Screenshot 2026-06-17 235544.png)
 ---
 
 # 👨‍💻 Author
